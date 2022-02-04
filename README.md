@@ -1,4 +1,4 @@
-# vpw (Vi navigation for pdf files on Windows)
+# vpw (Vi navigation for PDF files on Windows)
 vpw allows users to navigate pdf files using keyboard shortcuts from Vi.
 It is an Autohotkey script for emulating Zathura from Linux. 
 
